@@ -14,7 +14,7 @@ function HeaderCar() {
 
     // Scroll animasyonu
     tl.to(carRef.current, {
-      xPercent: 2780,
+      xPercent: window.innerWidth * 1.83,
       ease: "none",
       scrollTrigger: {
         trigger: "#first-section",
