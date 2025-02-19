@@ -37,7 +37,7 @@ function HeaderCar() {
       className="absolute left-4 -bottom-4 -translate-y-1/2 w-16"
     >
       <img
-        src="/car-side2.png"
+        src="/car-side.png"
         alt="Car"
         className="w-full h-full object-contain"
         // style={{ transform: "scaleX(-1)" }} // Arabayı sağa baktır
